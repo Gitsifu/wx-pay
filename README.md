@@ -16,4 +16,4 @@
 
 详细步骤可参考：[https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_4&index=3](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_4&index=3)
 
-Spring Boot版本仓库：[https://github.com/Gitsifu/we-pay-sb](https://github.com/Gitsifu/we-pay-sb)
+Spring Boot版本仓库（**推荐**）：[https://github.com/Gitsifu/we-pay-sb](https://github.com/Gitsifu/we-pay-sb)
